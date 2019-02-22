@@ -10,5 +10,5 @@ Tested on Raspberry Pi 3b and 3b+. Input from local device touch screen, keyboar
 [What is Balena](https://www.balena.io/what-is-balena/)
 ## Environment Variables
 Create an enviroment variable in your Balena app named URL_LAUNCHER_URL and assign it your web accessible URL. The Chromium start page loads by default.
-###Disclaimer
+### Disclaimer
 No expert claims here. ;) I am sure there are better ways to put this together. But this solution works for us and meets our needs.
