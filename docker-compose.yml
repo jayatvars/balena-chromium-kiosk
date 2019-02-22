@@ -1,0 +1,5 @@
+version: '2'
+services:
+  chromium-kiosk:
+    build: ./
+    privileged: true
